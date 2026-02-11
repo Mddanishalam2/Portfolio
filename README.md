@@ -1,12 +1,59 @@
-# React + Vite
+# 🌐 Personal Portfolio – Md Danish Alam
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **personal portfolio website** built using  
+**React, Vite, Tailwind CSS (v4)** with a **premium glassmorphism UI**  
+and **dark/light theme toggle**.
 
-Currently, two official plugins are available:
+This project showcases my **projects, skills, and contact details**  
+in a clean, professional design suitable for recruiters and clients.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
+🔗 https://mddanishportfolio.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Vite**
+- **Tailwind CSS v4**
+- **JavaScript (ES6+)**
+- **Responsive Design**
+- **Glassmorphism UI**
+- **Dark / Light Mode Toggle**
+
+---
+
+## ✨ Features
+
+- 🌗 **Dark & Light Theme** with smooth toggle  
+- 🧊 **Premium Glass Navbar & Mobile Menu**  
+- 📱 **Fully Responsive (Mobile → Desktop)**  
+- 🎯 **Smooth Scroll Navigation**  
+- 💼 **Projects Showcase Section**  
+- 🧠 **Skills Grid with Icons**  
+- 📬 **Contact Section**  
+- ⚡ **Fast performance with Vite**
+
+---
+
+## 📂 Folder Structure
+
+src/
+├── data/ → Projects & skills data
+├── hooks/ → Custom hooks (dark mode, etc.)
+├── sections/ → Navbar, Home, About, Projects, Skills, Contact
+├── styles/ → Animations & global styles
+├── App.jsx
+├── main.jsx
+
+---
+## 👨‍💻 Author
+
+# Md Danish Alam
+
+CSE Student
+
+Passionate about real-world tech solutions & full-stack development
