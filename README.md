@@ -51,9 +51,9 @@ src/
 ├── main.jsx
 
 ---
-👨‍💻 Author
+## 👨‍💻 Author
 
-Md Danish Alam
+# Md Danish Alam
 
 CSE Student
 
