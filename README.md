@@ -10,8 +10,7 @@ in a clean, professional design suitable for recruiters and clients.
 ---
 
 ## 🚀 Live Demo
-🔗 Add your deployed link here  
-(e.g., Vercel / Netlify)
+🔗 https://mddanishportfolio.vercel.app/
 
 ---
 
