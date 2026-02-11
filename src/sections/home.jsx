@@ -18,7 +18,7 @@ const Home =()=>{
                 Get In Touch
               </a>
               <a
-                href="/DResume.pdf"
+                href="/Md_Danish_Alam_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 text-white font-semibold py-3 px-6 rounded-full transition-transform transform hover:scale-105 duration-300 shadow-lg hover:shadow-xl py-2 px-4 text-sm rounded-lg sm:py-3 sm:px-6 sm:text-base sm:rounded-full">
