@@ -20,7 +20,7 @@ const App = () => {
       </main>
 
       {/* Footer */}
-      <footer className="py-8 text-center text-sm text-gray-500">
+      <footer className="py-8 text-center text-sm text-gray-500 dark:text-gray-400">
         <p><strong>&copy; {new Date().getFullYear()} Created by Md Danish Alam. All Rights Reserved.</strong></p>
       </footer>
     </div>
