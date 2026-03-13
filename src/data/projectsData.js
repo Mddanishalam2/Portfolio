@@ -4,7 +4,7 @@ const projectsData = [
      description: 'Where Is My Bus is a real-time bus tracking system built using GPS 808, Node.js, and React with Leaflet.js. It allows users to track local buses live on a map, view routes, and get accurate arrival timings for a smoother travel experience.',
     technologies: ['React', 'Tailwind CSS', 'Node.js', 'Leaflet.js'],
     githubLink: 'https://github.com/Mddanishalam2/Where-is-my-bus',
-     liveLink: '#',
+     liveLink: 'https://whereismybus-ten.vercel.app',
   },
   {
     title: 'CoatCraft',
