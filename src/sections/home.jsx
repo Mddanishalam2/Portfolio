@@ -30,7 +30,7 @@ const Home =()=>{
             <div className="w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-blue-600 shadow-xl flex-shrink-0 animate-pulse-slow">
               {/* My Image */}
               <img
-                src="/userpic2.png"
+                src="/SimlaImg.jpeg"
                 alt="Profile"
                 className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
               />
